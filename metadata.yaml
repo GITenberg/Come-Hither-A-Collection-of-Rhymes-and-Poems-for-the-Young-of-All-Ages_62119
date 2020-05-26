@@ -1,5 +1,5 @@
 _repo: Come-Hither-A-Collection-of-Rhymes-and-Poems-for-the-Young-of-All-Ages_62119
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: De la Mare, Walter
@@ -16,7 +16,12 @@ contributor:
     agent_name: Buckels, Alec
     gutenberg_agent_id: '51779'
     url: http://www.gutenberg.org/2009/agents/51779
+covers:
+- cover_type: archival
+  image_path: 62119-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62119#Come-Hither-A-Collection-of-Rhymes-and-Poems-for-the-Young-of-All-Ages
 gutenberg_issued: '2020-05-13'
 gutenberg_type: Text
 identifiers:
